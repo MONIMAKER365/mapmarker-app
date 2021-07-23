@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Digital Currency
-    subtitle: 'A new kind of  that is more secure and much better than your bank  '
+    subtitle: 'A new kind of way  that is more secure and much better than your bank  '
   - type: features_section
     title: Features
     features:
