@@ -50,7 +50,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Why its so special ?
         content: >
           Being a type of money independent from banks, corporations, and
           states, the management costs for each transaction are minimal. In this
