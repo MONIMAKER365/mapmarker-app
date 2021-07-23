@@ -51,10 +51,11 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Being a type of money independent from banks, corporations, and
+          states, the management costs for each transaction are minimal. In this
+          way, people can buy and sell without asking permission from any bank
+          or third party.
         align: left
         image: /images/download (3).jpeg
         image_alt: Feature 3 placeholder image
