@@ -6,9 +6,6 @@ sections:
       - label: Learn More
         url: /features
         style: link
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: /images/2021-02-03.png
     image_alt: Hero placeholder image
