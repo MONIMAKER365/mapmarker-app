@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: 'Bitcoin  '
-    subtitle: 'A digital '
+    subtitle: 'A digital currency '
   - type: features_section
     title: Features
     features:
