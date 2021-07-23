@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: Digital Currency
-    subtitle: 'A new kind of '
+    subtitle: 'A new kind of currency that is more secure '
   - type: features_section
     title: Features
     features:
