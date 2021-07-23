@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: 'Crypto currency ,  A new version of '
+    subtitle: 'Crypto currency ,  A new version of bank'
   - type: features_section
     title: Features
     features:
