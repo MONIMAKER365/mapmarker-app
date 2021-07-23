@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Why bank and government dont want bitcoin
         content: "*Those who see governments banning ownership of bitcoin are ignoring the political power and influence of those who are snapping up most of the bitcoin.*\n\nTo really understand an asset, we have to examine not just the asset itself but\_*who owns it, and who can afford to own it*.\_These attributes will illuminate the\_*political and financial power wielded by the owners of the asset class*.\n\nAnd once we know what sort of political/financial power is in the hands of those owning the asset class, we can predict the limits of political restrictions that can be imposed on that ownership.\n\nAnd I am amused that when essayists claim “the government” will do whatever benefits the government most. While this is broadly true, this ignores the reality that\_*wealthy individuals and corporations own the processes of governance*.\n\nMore accurately, we can say that\_government will do whatever benefits those who control the levers of power most, which is quite different than claiming that the government acts solely to further its own interests. More specifically, it furthers what those at the top of the wealth-power pyramid have set as the government’s interests.\n\n"
         align: left
         image: /images/download (1).jpeg
