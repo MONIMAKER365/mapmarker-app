@@ -20,7 +20,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    title: Digital Cu
+    title: Digital Currency
   - type: features_section
     title: Features
     features:
