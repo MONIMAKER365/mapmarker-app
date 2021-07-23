@@ -21,7 +21,6 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: ' Bitcoin '
-    subtitle: 'A digital currency that uses blockchain to secure transaction '
   - type: features_section
     title: Features
     features:
