@@ -2,7 +2,6 @@
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "header": {
-        "title": "Mapmarker",
         "has_nav": true,
         "nav_links": [
             {
