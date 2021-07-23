@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "Go2"
     },
     "footer": {
         "has_nav": true,
