@@ -5,7 +5,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: primary
+        style: link
       - label: Contact Us
         url: /contact
         style: secondary
