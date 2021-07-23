@@ -31,10 +31,7 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Bitcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by the network.\_**Bitcoin is open-source; its design is public, nobody owns or controls Bitcoin and\_**[**everyone can take part**](https://bitcoin.org/en/support-bitcoin). Through many of its unique properties, Bitcoin allows exciting uses that could not be covered by any previous payment system.\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
