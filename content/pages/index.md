@@ -96,7 +96,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Starter theme
     - name: 'twitter:image'
-      value: images/starter-preview.png
+      value: /images/blue-crane.png
       relativeUrl: true
 layout: advanced
 ---
