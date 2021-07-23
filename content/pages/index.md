@@ -21,7 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: 'Crypto currency ,  a new way to keep your money with'
+    subtitle: 'Crypto currency , '
   - type: features_section
     title: Features
     features:
