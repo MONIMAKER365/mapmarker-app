@@ -73,7 +73,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: Stackbit Starter Mapmaker
   description: Website preview
   extra:
     - name: 'og:type'
