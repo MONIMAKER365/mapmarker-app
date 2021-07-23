@@ -69,7 +69,6 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
     actions:
       - label: Learn More
         url: /features
