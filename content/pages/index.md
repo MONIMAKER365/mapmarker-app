@@ -67,7 +67,7 @@ sections:
     recent_count: 3
   - type: cta_section
     actions:
-      - label: Learn more
+      - label: Learn More
         url: /features
         style: primary
     has_background: true
