@@ -73,7 +73,7 @@ sections:
         new_window: true
         no_follow: false
     has_background: true
-    background_color: blue
+    background_color: white
 seo:
   title: Stackbit Starter Mapmaker
   description: Website preview
