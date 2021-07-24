@@ -70,6 +70,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+        new_window: true
     has_background: true
     background_color: gray
 seo:
