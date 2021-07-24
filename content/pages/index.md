@@ -71,7 +71,7 @@ sections:
         url: /features
         style: primary
         new_window: true
-        no_follow: true
+        no_follow: false
     has_background: true
     background_color: gray
 seo:
